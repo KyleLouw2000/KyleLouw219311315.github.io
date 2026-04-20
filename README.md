@@ -101,3 +101,21 @@ References:
 <video width="600" controls>
   <source src="Mockinterview-219311315-KyleLouw.mp4" type="video/mp4">
 </video>
+
+---
+
+## Reflection 1: Coding in Markdown
+
+For this task, we had to code our CV and include our mock interview as part of our GitHub portfolio. From the beginning, I found Markdown very easy to understand and work with. I used headings, bold text, horizontal lines, and sections to organise my CV so it looks clean and professional. Everything made sense, but when I added my mock interview video, I thought it was showing but it was not appearing on the live site at first. I went back to check and fix it, and then it worked properly. In the end, I was able to structure my CV well, and now I understand Markdown much better and feel confident using it.
+
+---
+
+## Reflection 2: Mock Interview
+
+As part of this project, we also had to complete a mock interview. I was comfortable going into it because I have done interviews before. The task was to answer questions and present myself professionally. I was very chilled during the interview and handled most questions well, even though there were a few where I had to think deeply before answering. I still managed to answer everything. Overall, I think I did very well, and I communicated clearly. This experience showed me that I just need to keep improving my confidence more and more each time.
+
+---
+
+## Reflection 3: GitHub Pages
+
+For the final part, we had to make our portfolio live using GitHub Pages. At first, it took a few tries because I thought my video was not working, but I realised it only shows properly once the site is live. Since I am still new to this, it was a bit confusing in the beginning, but I kept trying until I understood it. Editing directly on GitHub was very easy and straightforward for me. In the end, I got my site live, and it felt amazing seeing my work online. This helped me understand how deployment works much better.
